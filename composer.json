@@ -11,6 +11,9 @@
             "email": "r.gazelot@gmail.com"
         }
     ],
+    "replace": {
+        "wisembly/excelant": "*"
+    },
     "require": {
         "php": ">=5.3.2",
 
